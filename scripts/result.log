@@ -1,0 +1,716 @@
+[2020-05-30 22:46:37] - Start: main
+[2020-05-30 22:46:37] - ★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆
+[2020-05-30 22:46:37] - Start: load_data
+[2020-05-30 22:46:37] - End: load_data done in 0.38 s
+[2020-05-30 22:46:37] - Start: fe_spectrum
+[2020-05-30 22:46:51] - End: fe_spectrum done in 13.46 s
+[2020-05-30 22:46:51] - Start: feature_eng
+[2020-05-30 22:46:51] - Start: category_encode
+[2020-05-30 22:46:51] - End: category_encode done in 0.02 s
+[2020-05-30 22:46:51] - End: feature_eng done in 0.03 s
+[2020-05-30 22:46:51] - Save X_train y_train X_test
+[2020-05-30 22:46:51] - X_train shape: (7436, 29), y_train shape: (7436, 1), X_test shape, (6952, 29)
+[2020-05-30 22:46:51] - End: main done in 13.93 s
+[2020-05-31 02:05:19] - Start: main
+[2020-05-31 02:05:19] - ★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆
+[2020-05-31 02:05:19] - Start: load_data
+[2020-05-31 02:05:19] - End: load_data done in 0.37 s
+[2020-05-31 02:05:19] - Start: fe_spectrum
+[2020-05-31 02:05:33] - End: fe_spectrum done in 13.59 s
+[2020-05-31 02:05:33] - Start: feature_eng
+[2020-05-31 02:05:33] - Start: category_encode
+[2020-05-31 02:05:33] - End: category_encode done in 0.02 s
+[2020-05-31 02:05:33] - End: feature_eng done in 0.03 s
+[2020-05-31 02:05:33] - Save X_train y_train X_test
+[2020-05-31 02:05:33] - X_train shape: (7436, 31), y_train shape: (7436, 1), X_test shape, (6952, 31)
+[2020-05-31 02:05:33] - End: main done in 14.06 s
+[2020-05-31 02:24:41] - Start: main
+[2020-05-31 02:24:41] - ★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆
+[2020-05-31 02:24:41] - Start: load_data
+[2020-05-31 02:24:42] - End: load_data done in 0.37 s
+[2020-05-31 02:24:42] - Start: fe_spectrum
+[2020-05-31 02:24:56] - End: fe_spectrum done in 14.55 s
+[2020-05-31 02:24:56] - Start: feature_eng
+[2020-05-31 02:24:56] - Start: category_encode
+[2020-05-31 02:24:56] - End: category_encode done in 0.02 s
+[2020-05-31 02:24:56] - End: feature_eng done in 0.04 s
+[2020-05-31 02:24:56] - Save X_train y_train X_test
+[2020-05-31 02:24:56] - X_train shape: (7436, 35), y_train shape: (7436, 1), X_test shape, (6952, 35)
+[2020-05-31 02:24:56] - End: main done in 15.03 s
+[2020-05-31 06:36:52] - Start: main
+[2020-05-31 06:36:52] - ★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆
+[2020-05-31 06:36:52] - Start: load_data
+[2020-05-31 06:36:53] - End: load_data done in 0.37 s
+[2020-05-31 06:36:53] - Start: fe_spectrum
+[2020-05-31 06:37:19] - Start: main
+[2020-05-31 06:37:19] - ★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆
+[2020-05-31 06:37:19] - Start: load_data
+[2020-05-31 06:37:20] - End: load_data done in 0.35 s
+[2020-05-31 06:37:20] - Start: fe_spectrum
+[2020-05-31 06:37:33] - End: fe_spectrum done in 13.45 s
+[2020-05-31 06:37:33] - Start: feature_eng
+[2020-05-31 06:37:33] - Start: category_encode
+[2020-05-31 06:37:33] - End: category_encode done in 0.02 s
+[2020-05-31 06:37:33] - End: feature_eng done in 0.04 s
+[2020-05-31 06:37:33] - Save X_train y_train X_test
+[2020-05-31 06:37:33] - X_train shape: (7436, 47), y_train shape: (7436, 1), X_test shape, (6952, 47)
+[2020-05-31 06:37:33] - End: main done in 13.92 s
+[2020-05-31 08:36:35] - Start: main
+[2020-05-31 08:36:35] - ★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆
+[2020-05-31 08:36:35] - Start: load_data
+[2020-05-31 08:36:35] - End: load_data done in 0.35 s
+[2020-05-31 08:36:35] - Start: fe_spectrum
+[2020-05-31 08:36:49] - End: fe_spectrum done in 13.47 s
+[2020-05-31 08:36:49] - Start: feature_eng
+[2020-05-31 08:36:49] - Start: category_encode
+[2020-05-31 08:36:49] - End: category_encode done in 0.02 s
+[2020-05-31 08:36:49] - End: feature_eng done in 0.07 s
+[2020-05-31 08:36:49] - Save X_train y_train X_test
+[2020-05-31 08:36:49] - X_train shape: (7436, 107), y_train shape: (7436, 1), X_test shape, (6952, 107)
+[2020-05-31 08:36:49] - End: main done in 14.10 s
+[2020-05-31 10:25:50] - Start: main
+[2020-05-31 10:25:50] - ★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆
+[2020-05-31 10:25:50] - Start: load_data
+[2020-05-31 10:25:51] - End: load_data done in 0.54 s
+[2020-05-31 10:25:51] - Start: fe_spectrum
+[2020-05-31 10:26:05] - End: fe_spectrum done in 13.93 s
+[2020-05-31 10:26:05] - Start: feature_eng
+[2020-05-31 10:26:05] - Start: category_encode
+[2020-05-31 10:26:05] - End: category_encode done in 0.02 s
+[2020-05-31 10:26:05] - End: feature_eng done in 0.07 s
+[2020-05-31 10:26:05] - Save X_train y_train X_test
+[2020-05-31 10:26:05] - X_train shape: (7436, 120), y_train shape: (7436, 1), X_test shape, (6952, 120)
+[2020-05-31 10:26:05] - End: main done in 14.76 s
+[2020-05-31 11:04:44] - Start: main
+[2020-05-31 11:04:44] - ★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆
+[2020-05-31 11:04:44] - Start: load_data
+[2020-05-31 11:04:44] - End: load_data done in 0.52 s
+[2020-05-31 11:04:44] - Start: fe_spectrum
+[2020-05-31 11:05:02] - Start: main
+[2020-05-31 11:05:02] - ★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆
+[2020-05-31 11:05:02] - Start: load_data
+[2020-05-31 11:05:02] - End: load_data done in 0.38 s
+[2020-05-31 11:05:02] - Start: fe_spectrum
+[2020-05-31 11:05:16] - End: fe_spectrum done in 13.53 s
+[2020-05-31 11:05:16] - Start: feature_eng
+[2020-05-31 11:05:16] - Start: category_encode
+[2020-05-31 11:05:16] - End: category_encode done in 0.02 s
+[2020-05-31 11:05:16] - End: feature_eng done in 0.06 s
+[2020-05-31 11:05:16] - Save X_train y_train X_test
+[2020-05-31 11:05:16] - X_train shape: (7436, 119), y_train shape: (7436, 1), X_test shape, (6952, 119)
+[2020-05-31 11:05:16] - End: main done in 14.20 s
+[2020-05-31 11:20:06] - Start: main
+[2020-05-31 11:20:06] - ★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆
+[2020-05-31 11:20:06] - Start: load_data
+[2020-05-31 11:20:07] - End: load_data done in 0.43 s
+[2020-05-31 11:20:07] - Start: fe_spectrum
+[2020-05-31 11:20:21] - End: fe_spectrum done in 13.69 s
+[2020-05-31 11:20:21] - Start: feature_eng
+[2020-05-31 11:20:21] - Start: category_encode
+[2020-05-31 11:20:21] - End: category_encode done in 0.02 s
+[2020-05-31 11:20:21] - End: feature_eng done in 0.06 s
+[2020-05-31 11:20:21] - Save X_train y_train X_test
+[2020-05-31 11:20:21] - X_train shape: (7436, 120), y_train shape: (7436, 1), X_test shape, (6952, 120)
+[2020-05-31 11:20:21] - End: main done in 14.41 s
+[2020-05-31 11:45:25] - Start: main
+[2020-05-31 11:45:25] - ★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆
+[2020-05-31 11:45:25] - Start: load_data
+[2020-05-31 11:45:25] - End: load_data done in 0.49 s
+[2020-05-31 11:45:25] - Start: fe_spectrum
+[2020-05-31 11:45:39] - End: fe_spectrum done in 14.04 s
+[2020-05-31 11:45:40] - Start: feature_eng
+[2020-05-31 11:45:40] - Start: category_encode
+[2020-05-31 11:45:40] - End: category_encode done in 0.02 s
+[2020-05-31 11:45:40] - End: feature_eng done in 0.19 s
+[2020-05-31 11:45:40] - Save X_train y_train X_test
+[2020-05-31 11:45:40] - X_train shape: (7436, 241), y_train shape: (7436, 1), X_test shape, (6952, 241)
+[2020-05-31 11:45:40] - End: main done in 14.94 s
+[2020-05-31 11:48:18] - Start: main
+[2020-05-31 11:48:18] - ★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆
+[2020-05-31 11:48:18] - Start: load_data
+[2020-05-31 11:48:19] - End: load_data done in 0.48 s
+[2020-05-31 11:48:19] - Start: fe_spectrum
+[2020-05-31 11:48:32] - End: fe_spectrum done in 13.59 s
+[2020-05-31 11:48:32] - Start: feature_eng
+[2020-05-31 11:48:32] - Start: category_encode
+[2020-05-31 11:48:33] - End: category_encode done in 0.02 s
+[2020-05-31 11:48:33] - End: feature_eng done in 0.22 s
+[2020-05-31 11:48:33] - Save X_train y_train X_test
+[2020-05-31 11:48:33] - X_train shape: (7436, 289), y_train shape: (7436, 1), X_test shape, (6952, 289)
+[2020-05-31 11:48:33] - End: main done in 14.52 s
+[2020-05-31 16:08:15] - Start: main
+[2020-05-31 16:08:15] - ★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆
+[2020-05-31 16:08:15] - Start: load_data
+[2020-05-31 16:08:15] - End: load_data done in 0.49 s
+[2020-05-31 16:08:15] - Start: fe_spectrum
+[2020-05-31 16:08:29] - End: fe_spectrum done in 14.12 s
+[2020-05-31 16:08:29] - Start: feature_eng
+[2020-05-31 16:08:29] - Start: category_encode
+[2020-05-31 16:08:29] - End: category_encode done in 0.02 s
+[2020-05-31 16:08:30] - Start: add_category_agg
+[2020-05-31 16:08:31] - End: add_category_agg done in 0.96 s
+[2020-05-31 16:08:31] - End: feature_eng done in 1.20 s
+[2020-05-31 16:08:31] - Save X_train y_train X_test
+[2020-05-31 16:08:31] - X_train shape: (7436, 396), y_train shape: (7436, 1), X_test shape, (6952, 396)
+[2020-05-31 16:08:31] - End: main done in 16.08 s
+[2020-05-31 16:32:41] - Start: main
+[2020-05-31 16:32:41] - ★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆
+[2020-05-31 16:32:41] - Start: load_data
+[2020-05-31 16:32:42] - End: load_data done in 0.42 s
+[2020-05-31 16:32:42] - Start: fe_spectrum
+[2020-05-31 16:32:55] - End: fe_spectrum done in 13.60 s
+[2020-05-31 16:32:55] - Start: feature_eng
+[2020-05-31 16:32:55] - Start: category_encode
+[2020-05-31 16:32:55] - End: category_encode done in 0.02 s
+[2020-05-31 16:32:56] - Start: add_category_agg
+[2020-05-31 16:32:57] - End: add_category_agg done in 0.96 s
+[2020-05-31 16:32:57] - End: feature_eng done in 1.19 s
+[2020-05-31 16:32:57] - Save X_train y_train X_test
+[2020-05-31 16:32:57] - X_train shape: (7436, 402), y_train shape: (7436, 1), X_test shape, (6952, 402)
+[2020-05-31 16:32:57] - End: main done in 15.47 s
+[2020-05-31 16:36:25] - Start: main
+[2020-05-31 16:36:25] - ★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆
+[2020-05-31 16:36:25] - Start: load_data
+[2020-05-31 16:36:25] - End: load_data done in 0.39 s
+[2020-05-31 16:36:25] - Start: fe_spectrum
+[2020-05-31 16:36:40] - End: fe_spectrum done in 14.34 s
+[2020-05-31 16:36:40] - Start: feature_eng
+[2020-05-31 16:36:40] - Start: category_encode
+[2020-05-31 16:36:40] - End: category_encode done in 0.02 s
+[2020-05-31 16:36:40] - Start: add_category_agg
+[2020-05-31 16:36:41] - End: add_category_agg done in 1.02 s
+[2020-05-31 16:36:41] - End: feature_eng done in 1.27 s
+[2020-05-31 16:36:41] - Save X_train y_train X_test
+[2020-05-31 16:36:41] - X_train shape: (7436, 420), y_train shape: (7436, 1), X_test shape, (6952, 420)
+[2020-05-31 16:36:41] - End: main done in 16.28 s
+[2020-05-31 22:12:27] - Start: main
+[2020-05-31 22:12:27] - ★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆
+[2020-05-31 22:12:27] - Start: load_data
+[2020-05-31 22:12:28] - End: load_data done in 0.37 s
+[2020-05-31 22:12:28] - Start: fe_spectrum
+[2020-05-31 22:12:42] - End: fe_spectrum done in 14.29 s
+[2020-05-31 22:12:42] - Start: feature_eng
+[2020-05-31 22:12:42] - Start: category_encode
+[2020-05-31 22:12:42] - End: category_encode done in 0.02 s
+[2020-05-31 22:12:42] - Start: add_category_agg
+[2020-05-31 22:12:43] - End: add_category_agg done in 1.07 s
+[2020-05-31 22:12:44] - End: feature_eng done in 2.09 s
+[2020-05-31 22:12:44] - Save X_train y_train X_test
+[2020-05-31 22:12:44] - X_train shape: (7436, 477), y_train shape: (7436, 1), X_test shape, (6952, 477)
+[2020-05-31 22:12:44] - End: main done in 17.05 s
+[2020-05-31 23:37:56] - Start: main
+[2020-05-31 23:37:56] - ★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆
+[2020-05-31 23:37:56] - Start: load_data
+[2020-05-31 23:37:56] - End: load_data done in 0.38 s
+[2020-05-31 23:37:56] - Start: fe_spectrum
+[2020-05-31 23:38:10] - End: fe_spectrum done in 13.79 s
+[2020-05-31 23:38:10] - Start: feature_eng
+[2020-05-31 23:38:10] - Start: category_encode
+[2020-05-31 23:38:10] - End: category_encode done in 0.02 s
+[2020-05-31 23:38:10] - Start: add_category_agg
+[2020-05-31 23:38:11] - End: add_category_agg done in 1.13 s
+[2020-05-31 23:38:12] - End: feature_eng done in 2.15 s
+[2020-05-31 23:38:12] - Save X_train y_train X_test
+[2020-05-31 23:38:12] - X_train shape: (7436, 481), y_train shape: (7436, 1), X_test shape, (6952, 481)
+[2020-05-31 23:38:12] - End: main done in 16.59 s
+[2020-06-01 00:32:03] - Start: main
+[2020-06-01 00:32:03] - ★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆
+[2020-06-01 00:32:03] - Start: load_data
+[2020-06-01 00:32:04] - End: load_data done in 0.38 s
+[2020-06-01 00:32:04] - Start: fe_spectrum
+[2020-06-01 00:32:17] - Start: calculate_peak_fwhm
+[2020-06-01 00:33:28] - Start: main
+[2020-06-01 00:33:28] - ★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆
+[2020-06-01 00:33:28] - Start: load_data
+[2020-06-01 00:33:28] - End: load_data done in 0.37 s
+[2020-06-01 00:33:28] - Start: fe_spectrum
+[2020-06-01 00:33:42] - Start: calculate_peak_fwhm
+[2020-06-01 08:52:33] - Start: main
+[2020-06-01 08:52:33] - ★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆
+[2020-06-01 08:52:33] - Start: load_data
+[2020-06-01 08:52:33] - End: load_data done in 0.41 s
+[2020-06-01 08:52:33] - Start: fe_spectrum
+[2020-06-01 08:52:47] - Start: calculate_peak_fwhm
+[2020-06-01 09:53:25] - End: calculate_peak_fwhm done in 3637.20 s
+[2020-06-01 09:53:25] - End: fe_spectrum done in 3651.91 s
+[2020-06-01 09:53:25] - Start: feature_eng
+[2020-06-01 09:53:25] - Start: category_encode
+[2020-06-01 09:53:25] - End: category_encode done in 0.02 s
+[2020-06-01 09:53:25] - Start: add_category_agg
+[2020-06-01 10:13:39] - Start: main
+[2020-06-01 10:13:39] - ★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆
+[2020-06-01 10:13:39] - Start: load_data
+[2020-06-01 10:13:39] - End: load_data done in 0.55 s
+[2020-06-01 10:13:39] - Start: fe_spectrum
+[2020-06-01 10:13:59] - End: fe_spectrum done in 20.11 s
+[2020-06-01 10:14:00] - Start: feature_eng
+[2020-06-01 10:14:00] - Start: category_encode
+[2020-06-01 10:14:00] - End: category_encode done in 0.02 s
+[2020-06-01 10:14:00] - Start: add_category_agg
+[2020-06-01 10:14:02] - End: add_category_agg done in 2.08 s
+[2020-06-01 10:14:04] - End: feature_eng done in 3.90 s
+[2020-06-01 10:14:04] - Save X_train y_train X_test
+[2020-06-01 10:14:04] - X_train shape: (7436, 785), y_train shape: (7436, 1), X_test shape, (6952, 785)
+[2020-06-01 10:14:04] - End: main done in 25.06 s
+[2020-06-01 14:24:37] - Start: main
+[2020-06-01 14:24:37] - ★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆
+[2020-06-01 14:24:37] - Start: load_data
+[2020-06-01 14:24:38] - End: load_data done in 0.44 s
+[2020-06-01 14:24:38] - Start: fe_spectrum
+[2020-06-01 14:24:58] - End: fe_spectrum done in 20.06 s
+[2020-06-01 14:24:58] - Start: feature_eng
+[2020-06-01 14:24:58] - Start: category_encode
+[2020-06-01 14:24:58] - End: category_encode done in 0.02 s
+[2020-06-01 14:24:59] - Start: add_category_agg
+[2020-06-01 14:25:01] - End: add_category_agg done in 2.17 s
+[2020-06-01 14:25:03] - End: feature_eng done in 5.00 s
+[2020-06-01 14:25:03] - Save X_train y_train X_test
+[2020-06-01 14:25:03] - X_train shape: (7436, 1105), y_train shape: (7436, 1), X_test shape, (6952, 1105)
+[2020-06-01 14:25:03] - End: main done in 26.04 s
+[2020-06-02 10:25:18] - Start: main
+[2020-06-02 10:25:18] - ★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆
+[2020-06-02 10:25:18] - Start: load_data
+[2020-06-02 10:25:18] - End: load_data done in 0.39 s
+[2020-06-02 10:25:18] - Start: fe_spectrum
+[2020-06-02 10:25:38] - End: fe_spectrum done in 19.56 s
+[2020-06-02 10:25:38] - Start: feature_eng
+[2020-06-02 10:25:38] - Start: category_encode
+[2020-06-02 10:25:38] - End: category_encode done in 0.02 s
+[2020-06-02 10:25:39] - Start: add_category_agg
+[2020-06-02 10:25:41] - End: add_category_agg done in 2.02 s
+[2020-06-02 10:25:43] - End: feature_eng done in 4.73 s
+[2020-06-02 10:25:43] - Save X_train y_train X_test
+[2020-06-02 10:25:43] - X_train shape: (7436, 1157), y_train shape: (7436, 1), X_test shape, (6952, 1157)
+[2020-06-02 10:25:43] - End: main done in 25.17 s
+[2020-06-02 21:44:42] - Start: main
+[2020-06-02 21:44:42] - ★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆
+[2020-06-02 21:44:42] - Start: load_data
+[2020-06-02 21:44:42] - End: load_data done in 0.59 s
+[2020-06-02 21:44:42] - Start: fe_spectrum
+[2020-06-02 21:45:02] - End: fe_spectrum done in 20.00 s
+[2020-06-02 21:45:03] - Start: feature_eng
+[2020-06-02 21:45:03] - Start: category_encode
+[2020-06-02 21:45:03] - End: category_encode done in 0.02 s
+[2020-06-02 21:45:03] - Start: add_category_agg
+[2020-06-02 21:45:05] - End: add_category_agg done in 2.05 s
+[2020-06-02 21:45:08] - End: feature_eng done in 4.83 s
+[2020-06-02 21:45:08] - Save X_train y_train X_test
+[2020-06-02 21:45:08] - X_train shape: (7436, 1157), y_train shape: (7436, 1), X_test shape, (6952, 1157)
+[2020-06-02 21:45:08] - End: main done in 25.92 s
+[2020-06-02 21:46:12] - Start: main
+[2020-06-02 21:46:12] - ★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆
+[2020-06-02 21:46:12] - Start: load_data
+[2020-06-02 21:46:12] - End: load_data done in 0.48 s
+[2020-06-02 21:46:12] - Start: fe_spectrum
+[2020-06-02 21:46:32] - End: fe_spectrum done in 19.53 s
+[2020-06-02 21:46:32] - Start: feature_eng
+[2020-06-02 21:46:32] - Start: category_encode
+[2020-06-02 21:46:32] - End: category_encode done in 0.02 s
+[2020-06-02 21:46:32] - Start: add_category_agg
+[2020-06-02 21:46:34] - End: add_category_agg done in 1.99 s
+[2020-06-02 21:46:37] - End: feature_eng done in 4.68 s
+[2020-06-02 21:46:37] - Save X_train y_train X_test
+[2020-06-02 21:46:37] - X_train shape: (7436, 1157), y_train shape: (7436, 1), X_test shape, (6952, 1157)
+[2020-06-02 21:46:37] - End: main done in 25.18 s
+[2020-06-02 22:26:15] - Start: main
+[2020-06-02 22:26:15] - ★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆
+[2020-06-02 22:26:15] - Start: load_data
+[2020-06-02 22:26:16] - End: load_data done in 0.39 s
+[2020-06-02 22:26:16] - Start: fe_spectrum
+[2020-06-02 22:26:35] - End: fe_spectrum done in 18.98 s
+[2020-06-02 22:26:35] - Start: feature_eng
+[2020-06-02 22:26:35] - Start: category_encode
+[2020-06-02 22:26:35] - End: category_encode done in 0.02 s
+[2020-06-02 22:26:35] - Start: add_category_agg
+[2020-06-02 22:26:38] - End: add_category_agg done in 2.94 s
+[2020-06-02 22:26:42] - End: feature_eng done in 6.96 s
+[2020-06-02 22:26:42] - Save X_train y_train X_test
+[2020-06-02 22:26:42] - X_train shape: (14388, 1157), y_train shape: (14388, 1), X_test shape, (6952, 1157)
+[2020-06-02 22:26:42] - End: main done in 26.90 s
+[2020-06-02 23:03:14] - Start: main
+[2020-06-02 23:03:14] - ★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆
+[2020-06-02 23:03:14] - Start: load_data
+[2020-06-02 23:03:14] - End: load_data done in 0.41 s
+[2020-06-02 23:03:14] - Start: fe_spectrum
+[2020-06-02 23:03:34] - End: fe_spectrum done in 19.47 s
+[2020-06-02 23:03:34] - Start: feature_eng
+[2020-06-02 23:03:34] - Start: category_encode
+[2020-06-02 23:03:34] - End: category_encode done in 0.02 s
+[2020-06-02 23:03:34] - Start: add_category_agg
+[2020-06-02 23:03:36] - End: add_category_agg done in 2.08 s
+[2020-06-02 23:03:39] - End: feature_eng done in 4.85 s
+[2020-06-02 23:03:39] - Save X_train y_train X_test
+[2020-06-02 23:03:39] - X_train shape: (7436, 1172), y_train shape: (7436, 1), X_test shape, (6952, 1172)
+[2020-06-02 23:03:39] - End: main done in 25.22 s
+[2020-06-02 23:17:26] - Start: main
+[2020-06-02 23:17:26] - ★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆
+[2020-06-02 23:17:26] - Start: load_data
+[2020-06-02 23:17:26] - End: load_data done in 0.44 s
+[2020-06-02 23:17:26] - Start: fe_spectrum
+[2020-06-02 23:17:45] - End: fe_spectrum done in 19.19 s
+[2020-06-02 23:17:46] - Start: feature_eng
+[2020-06-02 23:17:46] - Start: category_encode
+[2020-06-02 23:17:46] - End: category_encode done in 0.03 s
+[2020-06-02 23:17:46] - Start: add_category_agg
+[2020-06-02 23:17:50] - End: add_category_agg done in 3.97 s
+[2020-06-02 23:17:55] - End: feature_eng done in 9.45 s
+[2020-06-02 23:17:55] - Save X_train y_train X_test
+[2020-06-02 23:17:56] - X_train shape: (21340, 1172), y_train shape: (21340, 1), X_test shape, (6952, 1172)
+[2020-06-02 23:17:56] - End: main done in 30.07 s
+[2020-06-02 23:30:52] - Start: main
+[2020-06-02 23:30:52] - ★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆
+[2020-06-02 23:30:52] - Start: load_data
+[2020-06-02 23:30:52] - End: load_data done in 0.40 s
+[2020-06-02 23:30:52] - Start: fe_spectrum
+[2020-06-02 23:31:11] - End: fe_spectrum done in 19.13 s
+[2020-06-02 23:31:12] - Start: feature_eng
+[2020-06-02 23:31:12] - Start: category_encode
+[2020-06-02 23:31:12] - End: category_encode done in 0.03 s
+[2020-06-02 23:31:12] - Start: add_category_agg
+[2020-06-02 23:31:17] - End: add_category_agg done in 4.89 s
+[2020-06-02 23:31:23] - End: feature_eng done in 11.84 s
+[2020-06-02 23:31:23] - Save X_train y_train X_test
+[2020-06-02 23:31:24] - X_train shape: (28292, 1172), y_train shape: (28292, 1), X_test shape, (6952, 1172)
+[2020-06-02 23:31:24] - End: main done in 32.48 s
+[2020-06-03 08:49:13] - Start: main
+[2020-06-03 08:49:13] - ★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆
+[2020-06-03 08:49:13] - Start: load_data
+[2020-06-03 08:49:13] - End: load_data done in 0.42 s
+[2020-06-03 08:49:13] - Start: fe_spectrum
+[2020-06-03 08:49:33] - End: fe_spectrum done in 19.70 s
+[2020-06-03 08:49:33] - Start: feature_eng
+[2020-06-03 08:49:33] - Start: category_encode
+[2020-06-03 08:49:33] - End: category_encode done in 0.02 s
+[2020-06-03 08:49:33] - Start: add_category_agg
+[2020-06-03 08:49:35] - End: add_category_agg done in 2.00 s
+[2020-06-03 08:49:38] - End: feature_eng done in 4.82 s
+[2020-06-03 08:49:38] - Save X_train y_train X_test
+[2020-06-03 08:49:38] - X_train shape: (7436, 1172), y_train shape: (7436, 1), X_test shape, (6952, 1172)
+[2020-06-03 08:49:38] - End: main done in 25.41 s
+[2020-06-03 09:56:35] - Start: main
+[2020-06-03 09:56:35] - ★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆
+[2020-06-03 09:56:35] - Start: load_data
+[2020-06-03 09:56:35] - End: load_data done in 0.47 s
+[2020-06-03 09:56:35] - Start: fe_spectrum
+[2020-06-03 09:56:56] - End: fe_spectrum done in 20.26 s
+[2020-06-03 09:56:56] - Start: feature_eng
+[2020-06-03 09:56:56] - Start: category_encode
+[2020-06-03 09:56:56] - End: category_encode done in 0.03 s
+[2020-06-03 09:56:56] - Start: add_category_agg
+[2020-06-03 09:56:59] - End: add_category_agg done in 3.21 s
+[2020-06-03 09:57:03] - End: feature_eng done in 7.46 s
+[2020-06-03 09:57:03] - Save X_train y_train X_test
+[2020-06-03 09:57:04] - X_train shape: (14388, 1172), y_train shape: (14388, 1), X_test shape, (6952, 1172)
+[2020-06-03 09:57:04] - End: main done in 28.83 s
+[2020-06-03 14:56:27] - Start: main
+[2020-06-03 14:56:27] - ★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆
+[2020-06-03 14:56:27] - Start: load_data
+[2020-06-03 14:56:27] - End: load_data done in 0.66 s
+[2020-06-03 14:56:27] - Start: fe_spectrum
+[2020-06-03 14:56:48] - End: fe_spectrum done in 20.31 s
+[2020-06-03 14:56:48] - Start: feature_eng
+[2020-06-03 14:56:48] - Start: category_encode
+[2020-06-03 14:56:48] - End: category_encode done in 0.02 s
+[2020-06-03 14:56:48] - Start: add_category_agg
+[2020-06-03 14:56:50] - End: add_category_agg done in 2.18 s
+[2020-06-03 14:56:53] - End: feature_eng done in 5.14 s
+[2020-06-03 14:56:53] - Save X_train y_train X_test
+[2020-06-03 14:56:53] - X_train shape: (7436, 1172), y_train shape: (7436, 1), X_test shape, (6952, 1172)
+[2020-06-03 14:56:53] - End: main done in 26.65 s
+[2020-06-03 22:12:18] - Start: main
+[2020-06-03 22:12:18] - ★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆
+[2020-06-03 22:12:18] - Start: load_data
+[2020-06-03 22:12:18] - End: load_data done in 0.45 s
+[2020-06-03 22:12:18] - Start: fe_spectrum
+[2020-06-03 22:12:41] - End: fe_spectrum done in 22.74 s
+[2020-06-03 22:12:41] - Start: feature_eng
+[2020-06-03 22:12:41] - Start: category_encode
+[2020-06-03 22:12:41] - End: category_encode done in 0.02 s
+[2020-06-03 22:12:42] - Start: add_category_agg
+[2020-06-03 22:12:44] - End: add_category_agg done in 2.23 s
+[2020-06-03 22:12:46] - End: feature_eng done in 5.24 s
+[2020-06-03 22:12:46] - Save X_train y_train X_test
+[2020-06-03 22:12:47] - X_train shape: (7436, 1172), y_train shape: (7436, 1), X_test shape, (6952, 1172)
+[2020-06-03 22:12:47] - End: main done in 28.93 s
+[2020-06-03 23:13:19] - Start: main
+[2020-06-03 23:13:19] - ★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆
+[2020-06-03 23:13:19] - Start: load_data
+[2020-06-03 23:13:20] - End: load_data done in 0.89 s
+[2020-06-03 23:13:20] - Start: fe_spectrum
+[2020-06-03 23:13:40] - End: fe_spectrum done in 20.56 s
+[2020-06-03 23:13:41] - Start: feature_eng
+[2020-06-03 23:13:41] - Start: category_encode
+[2020-06-03 23:13:41] - End: category_encode done in 0.22 s
+[2020-06-03 23:13:41] - Start: add_category_agg
+[2020-06-03 23:13:43] - End: add_category_agg done in 2.20 s
+[2020-06-03 23:13:46] - End: feature_eng done in 5.30 s
+[2020-06-03 23:13:46] - Save X_train y_train X_test
+[2020-06-03 23:13:46] - X_train shape: (7436, 1172), y_train shape: (7436, 1), X_test shape, (6952, 1172)
+[2020-06-03 23:13:46] - End: main done in 27.28 s
+[2020-06-04 21:58:35] - Start: main
+[2020-06-04 21:58:35] - ★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆
+[2020-06-04 21:58:35] - Start: load_data
+[2020-06-04 21:58:36] - End: load_data done in 0.50 s
+[2020-06-04 21:58:36] - Start: fe_spectrum
+[2020-06-04 21:58:56] - End: fe_spectrum done in 20.07 s
+[2020-06-04 21:58:56] - Start: feature_eng
+[2020-06-04 21:58:56] - Start: category_encode
+[2020-06-04 21:59:46] - Start: main
+[2020-06-04 21:59:46] - ★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆
+[2020-06-04 21:59:46] - Start: load_data
+[2020-06-04 21:59:47] - End: load_data done in 0.44 s
+[2020-06-04 21:59:47] - Start: fe_spectrum
+[2020-06-04 22:00:07] - End: fe_spectrum done in 20.29 s
+[2020-06-04 22:00:07] - Start: feature_eng
+[2020-06-04 22:00:07] - Start: category_encode
+[2020-06-04 22:04:30] - Start: main
+[2020-06-04 22:04:30] - ★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆
+[2020-06-04 22:04:30] - Start: load_data
+[2020-06-04 22:04:30] - End: load_data done in 0.53 s
+[2020-06-04 22:04:30] - Start: fe_spectrum
+[2020-06-04 22:04:50] - End: fe_spectrum done in 20.12 s
+[2020-06-04 22:04:51] - Start: feature_eng
+[2020-06-04 22:04:51] - Start: category_encode
+[2020-06-04 22:06:18] - Start: main
+[2020-06-04 22:06:18] - ★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆
+[2020-06-04 22:06:18] - Start: load_data
+[2020-06-04 22:06:18] - End: load_data done in 0.40 s
+[2020-06-04 22:06:18] - Start: fe_spectrum
+[2020-06-04 22:06:38] - End: fe_spectrum done in 19.47 s
+[2020-06-04 22:06:38] - Start: feature_eng
+[2020-06-04 22:06:38] - Start: category_encode
+[2020-06-04 22:06:38] - End: category_encode done in 0.06 s
+[2020-06-04 22:06:38] - Start: add_category_agg
+[2020-06-04 22:06:40] - End: add_category_agg done in 2.14 s
+[2020-06-04 22:06:43] - End: feature_eng done in 4.93 s
+[2020-06-04 22:06:43] - Save X_train y_train X_test
+[2020-06-04 22:06:43] - X_train shape: (7436, 1167), y_train shape: (7436, 1), X_test shape, (6952, 1167)
+[2020-06-04 22:06:43] - End: main done in 25.24 s
+[2020-06-05 03:59:15] - Start: main
+[2020-06-05 03:59:15] - ★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆
+[2020-06-05 03:59:15] - Start: load_data
+[2020-06-05 03:59:16] - End: load_data done in 0.43 s
+[2020-06-05 03:59:16] - Start: fe_spectrum
+[2020-06-05 03:59:35] - End: fe_spectrum done in 19.37 s
+[2020-06-05 03:59:36] - Start: feature_eng
+[2020-06-05 03:59:36] - Start: category_encode
+[2020-06-05 03:59:36] - End: category_encode done in 0.06 s
+[2020-06-05 03:59:36] - Start: add_category_agg
+[2020-06-05 03:59:38] - End: add_category_agg done in 2.40 s
+[2020-06-05 03:59:41] - End: feature_eng done in 5.52 s
+[2020-06-05 03:59:41] - Save X_train y_train X_test
+[2020-06-05 03:59:41] - X_train shape: (7436, 1209), y_train shape: (7436, 1), X_test shape, (6952, 1209)
+[2020-06-05 03:59:41] - End: main done in 25.83 s
+[2020-06-05 04:21:51] - Start: main
+[2020-06-05 04:21:51] - ★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆
+[2020-06-05 04:21:51] - Start: load_data
+[2020-06-05 04:21:52] - End: load_data done in 0.40 s
+[2020-06-05 04:21:52] - Start: fe_spectrum
+[2020-06-05 04:22:11] - End: fe_spectrum done in 19.77 s
+[2020-06-05 04:22:12] - Start: feature_eng
+[2020-06-05 04:22:12] - Start: category_encode
+[2020-06-05 04:22:12] - End: category_encode done in 0.06 s
+[2020-06-05 04:22:12] - Start: add_category_agg
+[2020-06-05 04:22:14] - End: add_category_agg done in 2.37 s
+[2020-06-05 04:22:17] - End: feature_eng done in 5.44 s
+[2020-06-05 04:22:17] - Save X_train y_train X_test
+[2020-06-05 04:22:17] - X_train shape: (7436, 1209), y_train shape: (7436, 1), X_test shape, (6952, 1209)
+[2020-06-05 04:22:17] - End: main done in 26.11 s
+[2020-06-05 04:24:21] - Start: main
+[2020-06-05 04:24:21] - ★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆
+[2020-06-05 04:24:21] - Start: load_data
+[2020-06-05 04:24:21] - End: load_data done in 0.40 s
+[2020-06-05 04:24:21] - Start: fe_spectrum
+[2020-06-05 04:24:42] - End: fe_spectrum done in 20.55 s
+[2020-06-05 04:24:42] - Start: feature_eng
+[2020-06-05 04:24:42] - Start: category_encode
+[2020-06-05 04:24:42] - End: category_encode done in 0.06 s
+[2020-06-05 04:24:42] - Start: add_category_agg
+[2020-06-05 04:24:45] - End: add_category_agg done in 2.47 s
+[2020-06-05 04:24:48] - End: feature_eng done in 5.71 s
+[2020-06-05 04:24:48] - Save X_train y_train X_test
+[2020-06-05 04:24:48] - X_train shape: (7436, 1209), y_train shape: (7436, 1), X_test shape, (6952, 1209)
+[2020-06-05 04:24:48] - End: main done in 27.19 s
+[2020-06-05 04:28:48] - Start: main
+[2020-06-05 04:28:48] - ★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆
+[2020-06-05 04:28:48] - Start: load_data
+[2020-06-05 04:28:49] - End: load_data done in 0.48 s
+[2020-06-05 04:28:49] - Start: fe_spectrum
+[2020-06-05 04:29:08] - End: fe_spectrum done in 19.52 s
+[2020-06-05 04:29:09] - Start: feature_eng
+[2020-06-05 04:29:09] - Start: category_encode
+[2020-06-05 04:29:09] - End: category_encode done in 0.07 s
+[2020-06-05 04:29:09] - Start: add_category_agg
+[2020-06-05 04:29:11] - End: add_category_agg done in 2.38 s
+[2020-06-05 04:29:14] - End: feature_eng done in 5.48 s
+[2020-06-05 04:29:14] - Save X_train y_train X_test
+[2020-06-05 04:29:14] - X_train shape: (7436, 1210), y_train shape: (7436, 1), X_test shape, (6952, 1210)
+[2020-06-05 04:29:14] - End: main done in 25.92 s
+[2020-06-05 04:34:42] - Start: main
+[2020-06-05 04:34:42] - ★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆
+[2020-06-05 04:34:42] - Start: load_data
+[2020-06-05 04:34:42] - End: load_data done in 0.46 s
+[2020-06-05 04:34:42] - Start: fe_spectrum
+[2020-06-05 04:35:02] - End: fe_spectrum done in 20.17 s
+[2020-06-05 04:35:03] - Start: feature_eng
+[2020-06-05 04:35:03] - Start: category_encode
+[2020-06-05 04:35:03] - End: category_encode done in 0.11 s
+[2020-06-05 04:35:03] - Start: add_category_agg
+[2020-06-05 04:35:05] - End: add_category_agg done in 2.45 s
+[2020-06-05 04:35:08] - End: feature_eng done in 5.81 s
+[2020-06-05 04:35:08] - Save X_train y_train X_test
+[2020-06-05 04:35:09] - X_train shape: (7436, 1211), y_train shape: (7436, 1), X_test shape, (6952, 1211)
+[2020-06-05 04:35:09] - End: main done in 26.96 s
+[2020-06-05 04:48:03] - Start: main
+[2020-06-05 04:48:03] - ★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆
+[2020-06-05 04:48:03] - Start: load_data
+[2020-06-05 04:48:03] - End: load_data done in 0.42 s
+[2020-06-05 04:48:03] - Start: fe_spectrum
+[2020-06-05 04:48:23] - End: fe_spectrum done in 19.79 s
+[2020-06-05 04:48:23] - Start: feature_eng
+[2020-06-05 04:48:23] - Start: category_encode
+[2020-06-05 04:48:23] - End: category_encode done in 0.10 s
+[2020-06-05 04:48:24] - Start: add_category_agg
+[2020-06-05 04:48:26] - End: add_category_agg done in 2.49 s
+[2020-06-05 04:48:29] - End: feature_eng done in 5.80 s
+[2020-06-05 04:48:29] - Save X_train y_train X_test
+[2020-06-05 04:48:29] - X_train shape: (7436, 1211), y_train shape: (7436, 1), X_test shape, (6952, 1211)
+[2020-06-05 04:48:29] - End: main done in 26.59 s
+[2020-06-05 13:18:27] - Start: main
+[2020-06-05 13:18:27] - ★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆
+[2020-06-05 13:18:27] - Start: load_data
+[2020-06-05 13:18:27] - End: load_data done in 0.48 s
+[2020-06-05 13:18:27] - Start: fe_spectrum
+[2020-06-05 13:18:53] - Start: main
+[2020-06-05 13:18:53] - ★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆
+[2020-06-05 13:18:53] - Start: load_data
+[2020-06-05 13:18:53] - End: load_data done in 0.44 s
+[2020-06-05 13:18:53] - Start: fe_spectrum
+[2020-06-05 13:19:12] - End: fe_spectrum done in 19.41 s
+[2020-06-05 13:19:13] - Start: feature_eng
+[2020-06-05 13:19:13] - Start: category_encode
+[2020-06-05 13:19:13] - End: category_encode done in 0.10 s
+[2020-06-05 13:19:13] - Start: add_category_agg
+[2020-06-05 13:19:16] - End: add_category_agg done in 2.46 s
+[2020-06-05 13:19:19] - End: feature_eng done in 5.68 s
+[2020-06-05 13:19:19] - Save X_train y_train X_test
+[2020-06-05 13:19:19] - X_train shape: (7436, 1211), y_train shape: (7436, 1), X_test shape, (6952, 1211)
+[2020-06-05 13:19:19] - End: main done in 26.03 s
+[2020-06-05 18:08:38] - Start: main
+[2020-06-05 18:08:38] - ★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆
+[2020-06-05 18:08:38] - Start: load_data
+[2020-06-05 18:08:39] - End: load_data done in 0.42 s
+[2020-06-05 18:08:39] - Start: fe_spectrum
+[2020-06-05 18:08:58] - End: fe_spectrum done in 19.14 s
+[2020-06-05 18:08:58] - Start: feature_eng
+[2020-06-05 18:08:58] - Start: category_encode
+[2020-06-05 18:08:58] - End: category_encode done in 0.09 s
+[2020-06-05 18:08:59] - Start: add_category_agg
+[2020-06-05 18:09:01] - End: add_category_agg done in 2.30 s
+[2020-06-05 18:09:04] - End: feature_eng done in 5.60 s
+[2020-06-05 18:09:04] - Save X_train y_train X_test
+[2020-06-05 18:09:04] - X_train shape: (7436, 1213), y_train shape: (7436, 1), X_test shape, (6952, 1213)
+[2020-06-05 18:09:04] - End: main done in 25.61 s
+[2020-06-05 22:02:54] - Start: main
+[2020-06-05 22:02:54] - ★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆
+[2020-06-05 22:02:54] - Start: load_data
+[2020-06-05 22:02:55] - End: load_data done in 0.60 s
+[2020-06-05 22:02:55] - Start: fe_spectrum
+[2020-06-05 22:03:14] - End: fe_spectrum done in 19.46 s
+[2020-06-05 22:03:14] - Start: feature_eng
+[2020-06-05 22:03:15] - Start: category_encode
+[2020-06-05 22:03:15] - End: category_encode done in 0.09 s
+[2020-06-05 22:03:15] - Start: add_category_agg
+[2020-06-05 22:03:17] - End: add_category_agg done in 2.47 s
+[2020-06-05 22:03:20] - End: feature_eng done in 5.92 s
+[2020-06-05 22:03:20] - Save X_train y_train X_test
+[2020-06-05 22:03:21] - X_train shape: (7436, 1218), y_train shape: (7436, 1), X_test shape, (6952, 1218)
+[2020-06-05 22:03:21] - End: main done in 26.53 s
+[2020-06-06 09:48:42] - Start: main
+[2020-06-06 09:48:42] - ★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆
+[2020-06-06 09:48:42] - Start: load_data
+[2020-06-06 09:48:42] - End: load_data done in 0.46 s
+[2020-06-06 09:48:42] - Start: fe_spectrum
+[2020-06-06 09:49:01] - End: fe_spectrum done in 19.40 s
+[2020-06-06 09:49:02] - Start: feature_eng
+[2020-06-06 09:49:02] - Start: category_encode
+[2020-06-06 09:49:02] - End: category_encode done in 0.10 s
+[2020-06-06 09:49:02] - Start: add_category_agg
+[2020-06-06 09:49:05] - End: add_category_agg done in 2.66 s
+[2020-06-06 09:49:08] - End: feature_eng done in 6.29 s
+[2020-06-06 09:49:08] - Save X_train y_train X_test
+[2020-06-06 09:49:08] - X_train shape: (7436, 1203), y_train shape: (7436, 1), X_test shape, (6952, 1203)
+[2020-06-06 09:49:08] - End: main done in 26.62 s
+[2020-06-06 11:14:22] - Start: main
+[2020-06-06 11:14:22] - ★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆
+[2020-06-06 11:14:22] - Start: load_data
+[2020-06-06 11:14:22] - End: load_data done in 0.43 s
+[2020-06-06 11:14:22] - Start: fe_spectrum
+[2020-06-06 11:14:41] - End: fe_spectrum done in 19.38 s
+[2020-06-06 11:14:42] - Start: feature_eng
+[2020-06-06 11:14:42] - Start: category_encode
+[2020-06-06 11:15:13] - Start: main
+[2020-06-06 11:15:13] - ★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆
+[2020-06-06 11:15:13] - Start: load_data
+[2020-06-06 11:15:13] - End: load_data done in 0.39 s
+[2020-06-06 11:15:13] - Start: fe_spectrum
+[2020-06-06 11:15:33] - End: fe_spectrum done in 19.30 s
+[2020-06-06 11:15:33] - Start: feature_eng
+[2020-06-06 11:15:34] - Start: category_encode
+[2020-06-06 11:15:34] - End: category_encode done in 0.12 s
+[2020-06-06 11:15:34] - Start: add_category_agg
+[2020-06-06 11:15:38] - End: add_category_agg done in 3.67 s
+[2020-06-06 11:15:41] - End: feature_eng done in 8.37 s
+[2020-06-06 11:15:41] - Save X_train y_train X_test
+[2020-06-06 11:15:41] - X_train shape: (7436, 1285), y_train shape: (7436, 1), X_test shape, (6952, 1285)
+[2020-06-06 11:15:42] - End: main done in 28.54 s
+[2020-06-06 11:29:33] - Start: main
+[2020-06-06 11:29:33] - ★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆
+[2020-06-06 11:29:33] - Start: load_data
+[2020-06-06 11:29:34] - End: load_data done in 0.47 s
+[2020-06-06 11:29:34] - Start: fe_spectrum
+[2020-06-06 11:29:55] - End: fe_spectrum done in 20.61 s
+[2020-06-06 11:29:55] - Start: feature_eng
+[2020-06-06 11:29:56] - Start: category_encode
+[2020-06-06 11:29:56] - End: category_encode done in 0.14 s
+[2020-06-06 11:29:56] - Start: add_category_agg
+[2020-06-06 11:30:54] - Start: main
+[2020-06-06 11:30:54] - ★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆
+[2020-06-06 11:30:54] - Start: load_data
+[2020-06-06 11:30:55] - End: load_data done in 0.41 s
+[2020-06-06 11:30:55] - Start: fe_spectrum
+[2020-06-06 11:31:14] - End: fe_spectrum done in 19.43 s
+[2020-06-06 11:31:14] - Start: feature_eng
+[2020-06-06 11:31:15] - Start: category_encode
+[2020-06-06 11:31:15] - End: category_encode done in 0.14 s
+[2020-06-06 11:31:17] - Start: add_category_agg
+[2020-06-06 11:31:36] - Start: main
+[2020-06-06 11:31:36] - ★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆
+[2020-06-06 11:31:36] - Start: load_data
+[2020-06-06 11:31:36] - End: load_data done in 0.43 s
+[2020-06-06 11:31:36] - Start: fe_spectrum
+[2020-06-06 11:31:55] - End: fe_spectrum done in 19.36 s
+[2020-06-06 11:31:56] - Start: feature_eng
+[2020-06-06 11:31:56] - Start: category_encode
+[2020-06-06 11:31:57] - End: category_encode done in 0.11 s
+[2020-06-06 11:31:58] - Start: add_category_agg
+[2020-06-06 11:32:05] - End: add_category_agg done in 6.41 s
+[2020-06-06 11:32:05] - End: feature_eng done in 8.92 s
+[2020-06-06 11:32:05] - Save X_train y_train X_test
+[2020-06-06 11:32:05] - X_train shape: (7436, 1397), y_train shape: (7436, 1), X_test shape, (6952, 1397)
+[2020-06-06 11:32:05] - End: main done in 29.21 s
+[2020-06-14 15:37:43] - Start: main
+[2020-06-14 15:37:43] - ★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆
+[2020-06-14 15:37:43] - Start: load_data
+[2020-06-14 15:37:43] - End: load_data done in 0.56 s
+[2020-06-14 15:37:43] - Start: fe_spectrum
+[2020-06-14 15:38:02] - End: fe_spectrum done in 18.80 s
+[2020-06-14 15:38:02] - Start: feature_eng
+[2020-06-14 15:38:03] - Start: category_encode
+[2020-06-14 15:38:03] - End: category_encode done in 0.12 s
+[2020-06-14 15:38:05] - Start: add_category_agg
+[2020-06-14 15:38:11] - End: add_category_agg done in 5.96 s
+[2020-06-14 15:38:11] - End: feature_eng done in 8.42 s
+[2020-06-14 15:38:11] - Save train test
+[2020-06-14 15:38:11] - train shape: (7436, 1398), test shape, (6952, 1397)
+[2020-06-14 15:38:11] - End: main done in 28.37 s

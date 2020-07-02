@@ -1,0 +1,27 @@
+[2020-06-05 06:18:26] - lgb_StratifiedKFold_06050618_chip_exc_wl_label - train_x shape: (7436, 555)
+[2020-06-05 06:18:26] - lgb_StratifiedKFold_06050618_chip_exc_wl_label - train_y shape: (7436,)
+[2020-06-05 06:18:26] - lgb_StratifiedKFold_06050618_chip_exc_wl_label - start training cv
+[2020-06-05 06:18:26] - lgb_StratifiedKFold_06050618_chip_exc_wl_label - cv method: StratifiedKFold - group: hoge - stratify: chip_exc_wl_label
+[2020-06-05 06:18:26] - lgb_StratifiedKFold_06050618_chip_exc_wl_label fold 0 - start training
+[2020-06-05 06:18:58] - lgb_StratifiedKFold_06050618_chip_exc_wl_label fold 0 - end training - score 0.590878604963112
+[2020-06-05 06:18:58] - lgb_StratifiedKFold_06050618_chip_exc_wl_label fold 1 - start training
+[2020-06-05 06:19:32] - lgb_StratifiedKFold_06050618_chip_exc_wl_label fold 1 - end training - score 0.6178643384822028
+[2020-06-05 06:19:32] - lgb_StratifiedKFold_06050618_chip_exc_wl_label fold 2 - start training
+[2020-06-05 06:20:06] - lgb_StratifiedKFold_06050618_chip_exc_wl_label fold 2 - end training - score 0.605510752688172
+[2020-06-05 06:20:06] - lgb_StratifiedKFold_06050618_chip_exc_wl_label fold 3 - start training
+[2020-06-05 06:20:45] - lgb_StratifiedKFold_06050618_chip_exc_wl_label fold 3 - end training - score 0.6191117092866757
+[2020-06-05 06:20:45] - lgb_StratifiedKFold_06050618_chip_exc_wl_label fold 4 - start training
+[2020-06-05 06:21:28] - lgb_StratifiedKFold_06050618_chip_exc_wl_label fold 4 - end training - score 0.5964912280701754
+[2020-06-05 06:21:28] - lgb_StratifiedKFold_06050618_chip_exc_wl_label - end training cv - mean score 0.6059709521247982
+[2020-06-05 06:21:28] - lgb_StratifiedKFold_06050618_chip_exc_wl_label - start prediction cv
+[2020-06-05 06:21:28] - lgb_StratifiedKFold_06050618_chip_exc_wl_label - start prediction fold:0
+[2020-06-05 06:21:28] - lgb_StratifiedKFold_06050618_chip_exc_wl_label - end prediction fold:0
+[2020-06-05 06:21:28] - lgb_StratifiedKFold_06050618_chip_exc_wl_label - start prediction fold:1
+[2020-06-05 06:21:29] - lgb_StratifiedKFold_06050618_chip_exc_wl_label - end prediction fold:1
+[2020-06-05 06:21:29] - lgb_StratifiedKFold_06050618_chip_exc_wl_label - start prediction fold:2
+[2020-06-05 06:21:29] - lgb_StratifiedKFold_06050618_chip_exc_wl_label - end prediction fold:2
+[2020-06-05 06:21:29] - lgb_StratifiedKFold_06050618_chip_exc_wl_label - start prediction fold:3
+[2020-06-05 06:21:30] - lgb_StratifiedKFold_06050618_chip_exc_wl_label - end prediction fold:3
+[2020-06-05 06:21:30] - lgb_StratifiedKFold_06050618_chip_exc_wl_label - start prediction fold:4
+[2020-06-05 06:21:30] - lgb_StratifiedKFold_06050618_chip_exc_wl_label - end prediction fold:4
+[2020-06-05 06:21:30] - lgb_StratifiedKFold_06050618_chip_exc_wl_label - end prediction cv

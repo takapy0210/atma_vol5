@@ -1,0 +1,29 @@
+[2020-06-05 13:36:04] - lgb_StratifiedKFold_06051336 - train_x shape: (7436, 555)
+[2020-06-05 13:36:04] - lgb_StratifiedKFold_06051336 - train_y shape: (7436,)
+[2020-06-05 13:36:04] - lgb_StratifiedKFold_06051336 - start training cv
+[2020-06-05 13:36:04] - lgb_StratifiedKFold_06051336 - cv method: StratifiedKFold - group: chip_id - stratify: target
+[2020-06-05 13:36:04] - lgb_StratifiedKFold_06051336 fold 0 - start training
+[2020-06-05 13:36:08] - lgb_StratifiedKFold_06051336 fold 0 - end training - score 0.8099144740785276
+[2020-06-05 13:36:08] - lgb_StratifiedKFold_06051336 fold 1 - start training
+[2020-06-05 13:36:11] - lgb_StratifiedKFold_06051336 fold 1 - end training - score 0.9320331525604748
+[2020-06-05 13:36:11] - lgb_StratifiedKFold_06051336 fold 2 - start training
+[2020-06-05 13:36:17] - lgb_StratifiedKFold_06051336 fold 2 - end training - score 0.9275077103173999
+[2020-06-05 13:36:17] - lgb_StratifiedKFold_06051336 fold 3 - start training
+[2020-06-05 13:36:22] - lgb_StratifiedKFold_06051336 fold 3 - end training - score 0.8954044311802726
+[2020-06-05 13:36:22] - lgb_StratifiedKFold_06051336 fold 4 - start training
+[2020-06-05 13:36:26] - lgb_StratifiedKFold_06051336 fold 4 - end training - score 0.8942129639748893
+[2020-06-05 13:36:26] - lgb_StratifiedKFold_06051336 - end training cv - mean score:0.8918145464223128 - alldata mean:0.8804203573748636
+[2020-06-05 13:36:26] - lgb_StratifiedKFold_06051336 - start prediction cv
+[2020-06-05 13:36:26] - lgb_StratifiedKFold_06051336 - start prediction fold:0
+[2020-06-05 13:36:27] - lgb_StratifiedKFold_06051336 - end prediction fold:0
+[2020-06-05 13:36:27] - lgb_StratifiedKFold_06051336 - start prediction fold:1
+[2020-06-05 13:36:27] - lgb_StratifiedKFold_06051336 - end prediction fold:1
+[2020-06-05 13:36:27] - lgb_StratifiedKFold_06051336 - start prediction fold:2
+[2020-06-05 13:36:27] - lgb_StratifiedKFold_06051336 - end prediction fold:2
+[2020-06-05 13:36:27] - lgb_StratifiedKFold_06051336 - start prediction fold:3
+[2020-06-05 13:36:27] - lgb_StratifiedKFold_06051336 - end prediction fold:3
+[2020-06-05 13:36:27] - lgb_StratifiedKFold_06051336 - start prediction fold:4
+[2020-06-05 13:36:27] - lgb_StratifiedKFold_06051336 - end prediction fold:4
+[2020-06-05 13:36:27] - lgb_StratifiedKFold_06051336 - end prediction cv
+[2020-06-05 13:36:27] - lgb_StratifiedKFold_06051336 - start create submission
+[2020-06-05 13:36:27] - lgb_StratifiedKFold_06051336 - end create submission

@@ -1,0 +1,29 @@
+[2020-06-05 04:07:01] - lgb_StratifiedKFold_06050407_add_abs_2-5 - train_x shape: (7436, 556)
+[2020-06-05 04:07:01] - lgb_StratifiedKFold_06050407_add_abs_2-5 - train_y shape: (7436,)
+[2020-06-05 04:07:01] - lgb_StratifiedKFold_06050407_add_abs_2-5 - start training cv
+[2020-06-05 04:07:01] - lgb_StratifiedKFold_06050407_add_abs_2-5 - cv method: StratifiedKFold - group: chip_id - stratify: target
+[2020-06-05 04:07:01] - lgb_StratifiedKFold_06050407_add_abs_2-5 fold 0 - start training
+[2020-06-05 04:07:05] - lgb_StratifiedKFold_06050407_add_abs_2-5 fold 0 - end training - score 0.8101797586717332
+[2020-06-05 04:07:05] - lgb_StratifiedKFold_06050407_add_abs_2-5 fold 1 - start training
+[2020-06-05 04:07:07] - lgb_StratifiedKFold_06050407_add_abs_2-5 fold 1 - end training - score 0.9290685516345583
+[2020-06-05 04:07:07] - lgb_StratifiedKFold_06050407_add_abs_2-5 fold 2 - start training
+[2020-06-05 04:07:11] - lgb_StratifiedKFold_06050407_add_abs_2-5 fold 2 - end training - score 0.9231891636522123
+[2020-06-05 04:07:11] - lgb_StratifiedKFold_06050407_add_abs_2-5 fold 3 - start training
+[2020-06-05 04:07:15] - lgb_StratifiedKFold_06050407_add_abs_2-5 fold 3 - end training - score 0.8977643633333356
+[2020-06-05 04:07:15] - lgb_StratifiedKFold_06050407_add_abs_2-5 fold 4 - start training
+[2020-06-05 04:07:19] - lgb_StratifiedKFold_06050407_add_abs_2-5 fold 4 - end training - score 0.8916816714145835
+[2020-06-05 04:07:19] - lgb_StratifiedKFold_06050407_add_abs_2-5 - end training cv - mean score 0.8765175824187086
+[2020-06-05 04:07:19] - lgb_StratifiedKFold_06050407_add_abs_2-5 - start prediction cv
+[2020-06-05 04:07:19] - lgb_StratifiedKFold_06050407_add_abs_2-5 - start prediction fold:0
+[2020-06-05 04:07:20] - lgb_StratifiedKFold_06050407_add_abs_2-5 - end prediction fold:0
+[2020-06-05 04:07:20] - lgb_StratifiedKFold_06050407_add_abs_2-5 - start prediction fold:1
+[2020-06-05 04:07:20] - lgb_StratifiedKFold_06050407_add_abs_2-5 - end prediction fold:1
+[2020-06-05 04:07:20] - lgb_StratifiedKFold_06050407_add_abs_2-5 - start prediction fold:2
+[2020-06-05 04:07:20] - lgb_StratifiedKFold_06050407_add_abs_2-5 - end prediction fold:2
+[2020-06-05 04:07:20] - lgb_StratifiedKFold_06050407_add_abs_2-5 - start prediction fold:3
+[2020-06-05 04:07:20] - lgb_StratifiedKFold_06050407_add_abs_2-5 - end prediction fold:3
+[2020-06-05 04:07:20] - lgb_StratifiedKFold_06050407_add_abs_2-5 - start prediction fold:4
+[2020-06-05 04:07:20] - lgb_StratifiedKFold_06050407_add_abs_2-5 - end prediction fold:4
+[2020-06-05 04:07:20] - lgb_StratifiedKFold_06050407_add_abs_2-5 - end prediction cv
+[2020-06-05 04:07:20] - lgb_StratifiedKFold_06050407_add_abs_2-5 - start create submission
+[2020-06-05 04:07:20] - lgb_StratifiedKFold_06050407_add_abs_2-5 - end create submission

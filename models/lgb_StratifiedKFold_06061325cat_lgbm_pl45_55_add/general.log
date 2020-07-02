@@ -1,0 +1,29 @@
+[2020-06-06 13:25:55] - lgb_StratifiedKFold_06061325cat_lgbm_pl45_55_add - train_x shape: (7436, 557)
+[2020-06-06 13:25:55] - lgb_StratifiedKFold_06061325cat_lgbm_pl45_55_add - train_y shape: (7436,)
+[2020-06-06 13:25:55] - lgb_StratifiedKFold_06061325cat_lgbm_pl45_55_add - start training cv
+[2020-06-06 13:25:55] - lgb_StratifiedKFold_06061325cat_lgbm_pl45_55_add - cv method: StratifiedKFold - group: chip_id - stratify: target
+[2020-06-06 13:25:55] - lgb_StratifiedKFold_06061325cat_lgbm_pl45_55_add fold 0 - start training
+[2020-06-06 13:26:08] - lgb_StratifiedKFold_06061325cat_lgbm_pl45_55_add fold 0 - end training - score 0.8310049292195694
+[2020-06-06 13:26:08] - lgb_StratifiedKFold_06061325cat_lgbm_pl45_55_add fold 1 - start training
+[2020-06-06 13:26:19] - lgb_StratifiedKFold_06061325cat_lgbm_pl45_55_add fold 1 - end training - score 0.9351363610689981
+[2020-06-06 13:26:19] - lgb_StratifiedKFold_06061325cat_lgbm_pl45_55_add fold 2 - start training
+[2020-06-06 13:26:31] - lgb_StratifiedKFold_06061325cat_lgbm_pl45_55_add fold 2 - end training - score 0.9532374355012839
+[2020-06-06 13:26:31] - lgb_StratifiedKFold_06061325cat_lgbm_pl45_55_add fold 3 - start training
+[2020-06-06 13:26:45] - lgb_StratifiedKFold_06061325cat_lgbm_pl45_55_add fold 3 - end training - score 0.9330549210827564
+[2020-06-06 13:26:45] - lgb_StratifiedKFold_06061325cat_lgbm_pl45_55_add fold 4 - start training
+[2020-06-06 13:26:57] - lgb_StratifiedKFold_06061325cat_lgbm_pl45_55_add fold 4 - end training - score 0.9135857419839147
+[2020-06-06 13:26:57] - lgb_StratifiedKFold_06061325cat_lgbm_pl45_55_add - end training cv - mean score:0.9132038777713045 - alldata mean:0.9069293428460025
+[2020-06-06 13:26:57] - lgb_StratifiedKFold_06061325cat_lgbm_pl45_55_add - start prediction cv
+[2020-06-06 13:26:57] - lgb_StratifiedKFold_06061325cat_lgbm_pl45_55_add - start prediction fold:0
+[2020-06-06 13:26:58] - lgb_StratifiedKFold_06061325cat_lgbm_pl45_55_add - end prediction fold:0
+[2020-06-06 13:26:58] - lgb_StratifiedKFold_06061325cat_lgbm_pl45_55_add - start prediction fold:1
+[2020-06-06 13:26:58] - lgb_StratifiedKFold_06061325cat_lgbm_pl45_55_add - end prediction fold:1
+[2020-06-06 13:26:58] - lgb_StratifiedKFold_06061325cat_lgbm_pl45_55_add - start prediction fold:2
+[2020-06-06 13:26:58] - lgb_StratifiedKFold_06061325cat_lgbm_pl45_55_add - end prediction fold:2
+[2020-06-06 13:26:58] - lgb_StratifiedKFold_06061325cat_lgbm_pl45_55_add - start prediction fold:3
+[2020-06-06 13:26:58] - lgb_StratifiedKFold_06061325cat_lgbm_pl45_55_add - end prediction fold:3
+[2020-06-06 13:26:58] - lgb_StratifiedKFold_06061325cat_lgbm_pl45_55_add - start prediction fold:4
+[2020-06-06 13:26:58] - lgb_StratifiedKFold_06061325cat_lgbm_pl45_55_add - end prediction fold:4
+[2020-06-06 13:26:58] - lgb_StratifiedKFold_06061325cat_lgbm_pl45_55_add - end prediction cv
+[2020-06-06 13:26:58] - lgb_StratifiedKFold_06061325cat_lgbm_pl45_55_add - start create submission
+[2020-06-06 13:26:58] - lgb_StratifiedKFold_06061325cat_lgbm_pl45_55_add - end create submission

@@ -1,0 +1,29 @@
+[2020-06-05 23:13:48] - cat_StratifiedKFold_06052313 - train_x shape: (7436, 557)
+[2020-06-05 23:13:48] - cat_StratifiedKFold_06052313 - train_y shape: (7436,)
+[2020-06-05 23:13:48] - cat_StratifiedKFold_06052313 - start training cv
+[2020-06-05 23:13:48] - cat_StratifiedKFold_06052313 - cv method: StratifiedKFold - group: chip_id - stratify: target
+[2020-06-05 23:13:48] - cat_StratifiedKFold_06052313 fold 0 - start training
+[2020-06-05 23:19:14] - cat_StratifiedKFold_06052313 fold 0 - end training - score 0.8209464139349125
+[2020-06-05 23:19:15] - cat_StratifiedKFold_06052313 fold 1 - start training
+[2020-06-05 23:29:22] - cat_StratifiedKFold_06052313 fold 1 - end training - score 0.9276907778114591
+[2020-06-05 23:29:23] - cat_StratifiedKFold_06052313 fold 2 - start training
+[2020-06-05 23:47:12] - cat_StratifiedKFold_06052313 fold 2 - end training - score 0.9438522087173794
+[2020-06-05 23:47:12] - cat_StratifiedKFold_06052313 fold 3 - start training
+[2020-06-06 00:02:24] - cat_StratifiedKFold_06052313 fold 3 - end training - score 0.9090914435017056
+[2020-06-06 00:02:24] - cat_StratifiedKFold_06052313 fold 4 - start training
+[2020-06-06 00:06:36] - cat_StratifiedKFold_06052313 fold 4 - end training - score 0.867721190386038
+[2020-06-06 00:06:36] - cat_StratifiedKFold_06052313 - end training cv - mean score:0.893860406870299 - alldata mean:0.8812028449004834
+[2020-06-06 00:06:36] - cat_StratifiedKFold_06052313 - start prediction cv
+[2020-06-06 00:06:36] - cat_StratifiedKFold_06052313 - start prediction fold:0
+[2020-06-06 00:06:37] - cat_StratifiedKFold_06052313 - end prediction fold:0
+[2020-06-06 00:06:37] - cat_StratifiedKFold_06052313 - start prediction fold:1
+[2020-06-06 00:06:38] - cat_StratifiedKFold_06052313 - end prediction fold:1
+[2020-06-06 00:06:38] - cat_StratifiedKFold_06052313 - start prediction fold:2
+[2020-06-06 00:06:39] - cat_StratifiedKFold_06052313 - end prediction fold:2
+[2020-06-06 00:06:39] - cat_StratifiedKFold_06052313 - start prediction fold:3
+[2020-06-06 00:06:40] - cat_StratifiedKFold_06052313 - end prediction fold:3
+[2020-06-06 00:06:40] - cat_StratifiedKFold_06052313 - start prediction fold:4
+[2020-06-06 00:06:41] - cat_StratifiedKFold_06052313 - end prediction fold:4
+[2020-06-06 00:06:41] - cat_StratifiedKFold_06052313 - end prediction cv
+[2020-06-06 00:06:41] - cat_StratifiedKFold_06052313 - start create submission
+[2020-06-06 00:06:41] - cat_StratifiedKFold_06052313 - end create submission

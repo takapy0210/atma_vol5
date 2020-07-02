@@ -1,0 +1,29 @@
+[2020-06-05 03:40:31] - lgb_GroupKFold_06050340pl_seed42 - train_x shape: (7436, 555)
+[2020-06-05 03:40:31] - lgb_GroupKFold_06050340pl_seed42 - train_y shape: (7436,)
+[2020-06-05 03:40:31] - lgb_GroupKFold_06050340pl_seed42 - start training cv
+[2020-06-05 03:40:31] - lgb_GroupKFold_06050340pl_seed42 - cv method: GroupKFold - group: chip_id - stratify: target
+[2020-06-05 03:40:31] - lgb_GroupKFold_06050340pl_seed42 fold 0 - start training
+[2020-06-05 03:40:39] - lgb_GroupKFold_06050340pl_seed42 fold 0 - end training - score 0.8796567742600825
+[2020-06-05 03:40:39] - lgb_GroupKFold_06050340pl_seed42 fold 1 - start training
+[2020-06-05 03:40:48] - lgb_GroupKFold_06050340pl_seed42 fold 1 - end training - score 0.9280253227967162
+[2020-06-05 03:40:48] - lgb_GroupKFold_06050340pl_seed42 fold 2 - start training
+[2020-06-05 03:40:54] - lgb_GroupKFold_06050340pl_seed42 fold 2 - end training - score 0.8613744960201654
+[2020-06-05 03:40:54] - lgb_GroupKFold_06050340pl_seed42 fold 3 - start training
+[2020-06-05 03:40:59] - lgb_GroupKFold_06050340pl_seed42 fold 3 - end training - score 0.9117931671503099
+[2020-06-05 03:40:59] - lgb_GroupKFold_06050340pl_seed42 fold 4 - start training
+[2020-06-05 03:41:13] - lgb_GroupKFold_06050340pl_seed42 fold 4 - end training - score 0.8633863889958974
+[2020-06-05 03:41:13] - lgb_GroupKFold_06050340pl_seed42 - end training cv - mean score 0.8748437257399498
+[2020-06-05 03:41:13] - lgb_GroupKFold_06050340pl_seed42 - start prediction cv
+[2020-06-05 03:41:13] - lgb_GroupKFold_06050340pl_seed42 - start prediction fold:0
+[2020-06-05 03:41:13] - lgb_GroupKFold_06050340pl_seed42 - end prediction fold:0
+[2020-06-05 03:41:13] - lgb_GroupKFold_06050340pl_seed42 - start prediction fold:1
+[2020-06-05 03:41:13] - lgb_GroupKFold_06050340pl_seed42 - end prediction fold:1
+[2020-06-05 03:41:13] - lgb_GroupKFold_06050340pl_seed42 - start prediction fold:2
+[2020-06-05 03:41:13] - lgb_GroupKFold_06050340pl_seed42 - end prediction fold:2
+[2020-06-05 03:41:13] - lgb_GroupKFold_06050340pl_seed42 - start prediction fold:3
+[2020-06-05 03:41:13] - lgb_GroupKFold_06050340pl_seed42 - end prediction fold:3
+[2020-06-05 03:41:13] - lgb_GroupKFold_06050340pl_seed42 - start prediction fold:4
+[2020-06-05 03:41:13] - lgb_GroupKFold_06050340pl_seed42 - end prediction fold:4
+[2020-06-05 03:41:13] - lgb_GroupKFold_06050340pl_seed42 - end prediction cv
+[2020-06-05 03:41:13] - lgb_GroupKFold_06050340pl_seed42 - start create submission
+[2020-06-05 03:41:13] - lgb_GroupKFold_06050340pl_seed42 - end create submission
