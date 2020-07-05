@@ -299,3 +299,4 @@ $RECYCLE.BIN/
 *.dat
 *.zip
 .ipynb_checkpoints
+notebooks/
